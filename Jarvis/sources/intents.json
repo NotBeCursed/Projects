@@ -1,0 +1,28 @@
+{
+    "intents":[
+        {
+            "tag":"time",
+            "pattern":["Il est quelle heure","Quelle heure est-il","Donne moi l'heure"]
+        },
+        {
+            "tag":"date",
+            "pattern":["Quel jour sommes nous","On est quel jour","Nous sommes quel jour","Quel jour est-on", "Donne moi la date d'aujourd'hui"]
+        },
+        {
+            "tag":"new_note",
+            "pattern":["Crée une nouvelle note","Nouvelle note"]
+        },
+        {
+            "tag":"timer",
+            "pattern":["Lance un minuteur","Met un minuteur","Programme un minuteur"]
+        },
+        {
+            "tag":"alarm",
+            "pattern":["Lance une alarme","Met une alarme","Programme une alarme"]
+        },
+        {
+            "tag":"weather",
+            "pattern":["Quel temps fait-il", "Quelle est la météo", "Quelle est la température de dehors"]
+        }
+    ]
+}
