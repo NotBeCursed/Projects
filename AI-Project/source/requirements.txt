@@ -1,0 +1,5 @@
+tensorflow==2.14.0
+seaborn==0.13.1
+opencv-python==4.9.0.80
+pandas==2.1.
+matplotlib==3.8.2
